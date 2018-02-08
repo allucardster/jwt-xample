@@ -1,3 +1,4 @@
 easy_admin:
+    site_name: 'JWT xample'
     entities:
         - App\Entity\Product
