@@ -1,5 +1,5 @@
-Synopsis
-========
+JWT-Xample
+==========
 
 Just an small example related with JWT implementation to secure an API made with Symfony4 using [lexik/LexikJWTAuthenticationBundle](https://github.com/lexik/LexikJWTAuthenticationBundle)
 
